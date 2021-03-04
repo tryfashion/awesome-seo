@@ -86,6 +86,14 @@
 [Logfile Analysis for SEO](https://www.suganthan.com/blog/logfile-analysis-seo/)
 > 此篇文章详细讲解了如何分析网站访问日志来发现SEO中的问题。GA可以帮助我们了解用户访问情况，系统日志能帮助我们更好的了解爬虫请求、网站技术性SEO问题如301跳转等问题。
 
+### Google Ads
+
+[Google Ads Benchmarks for YOUR Industry](https://www.wordstream.com/blog/ws/2016/02/29/google-adwords-industry-benchmarks)
+> Last updated: October 5, 2020. 了解每个行业的吸金能力。
+
+[如何准确查询关键词热度和搜索量](https://www.onepound.cn/article_info-144.html)
+> 了解热度，规避红海竞争。
+
 ## 工具
 
 [ahrefs](https://ahrefs.com/)
